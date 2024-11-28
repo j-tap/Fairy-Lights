@@ -1,0 +1,101 @@
+{
+    "itemGroup.fairylights": "Гирлянды",
+    
+    "fairylights.config": "Настройки Fairy Lights",
+    
+    "block.fairylights.fastener": "Крепеж для соединения",
+    
+    "item.fairylights.hanging_lights": "Подвесные гирлянды",
+    "item.fairylights.garland": "Гирлянда из лозы",
+    "item.fairylights.tinsel": "Мишура",
+    
+    "item.fairylights.black_string": "Черная нить",
+    "item.fairylights.white_string": "Белая нить",
+    "item.fairyLights.twinkle": "Мерцание",
+    
+    "item.fairylights.pennant_bunting": "Гирлянда с флажками",
+    
+    "item.fairylights.letter_bunting": "Гирлянда с буквами",
+    
+    "item.fairylights.triangle_pennant": "Треугольный флажок",
+    "item.fairylights.spearhead_pennant": "Флажок-копье",
+    "item.fairylights.swallowtail_pennant": "Флажок-ласточкин хвост",
+    "item.fairylights.square_pennant": "Квадратный флажок",
+    
+    "block.fairylights.fairy_light": "Волшебный свет",
+    "block.fairylights.paper_lantern": "Бумажный фонарик",
+    "block.fairylights.orb_lantern": "Сферический фонарик",
+    "block.fairylights.flower_light": "Цветочный светильник",
+    "block.fairylights.candle_lantern_light": "Светильник со свечой",
+    "block.fairylights.oil_lantern_light": "Светильник с масляной лампой",
+    "block.fairylights.jack_o_lantern": "Светильник Джека",
+    "block.fairylights.skull_light": "Светильник-череп",
+    "block.fairylights.ghost_light": "Светильник-привидение",
+    "block.fairylights.spider_light": "Светильник-паук",
+    "block.fairylights.witch_light": "Светильник-ведьма",
+    "block.fairylights.snowflake_light": "Светильник-снежинка",
+    "block.fairylights.heart_light": "Светильник-сердце",
+    "block.fairylights.moon_light": "Светильник-луна",
+    "block.fairylights.star_light": "Светильник-звезда",
+    "block.fairylights.icicle_lights": "Светильник-ледяная сосулька",
+    "block.fairylights.meteor_light": "Светильник-метеор",
+    "block.fairylights.oil_lantern": "Масляный фонарь",
+    "block.fairylights.candle_lantern": "Фонарь со свечой",
+    "block.fairylights.incandescent_light": "Накаленная лампа",
+    
+    "entity.fairylights.fastener": "Крепеж",
+    
+    "fairylights.editLetteredConnection": "Задать текст гирлянды",
+    "fairylights.editLetteredConnection.allowed_characters": "Допустимые символы: %1$s",
+    
+    "recipe.ingredient.tooltip": "§7%s",
+    "recipe.fairylights.ingredient.auxiliary.optional": "(Необязательно)",
+    "recipe.fairylights.twinkling_lights.glowstone": "Заставляет гирлянды мерцать",
+    "recipe.fairylights.hangingLights.light": "Добавьте несколько светильников для настройки узора",
+    "recipe.fairylights.pennantBunting.pennant": "Добавьте несколько флажков для настройки узора",
+    "recipe.fairylights.hangingLights.string": "Добавьте белый краситель для создания белой нити",
+    
+    "format.fairylights.colored": "%1$s %2$s",
+    "format.fairylights.dyed_colored": "Окрашенный %1$s",
+    "format.fairylights.color_changing": "Меняющий цвет %1$s",
+    "format.fairylights.text": "Текст: %1$s"
+    
+    "color.fairylights.black": "Черный",
+    "color.fairylights.red": "Красный",
+    "color.fairylights.green": "Зеленый",
+    "color.fairylights.brown": "Коричневый",
+    "color.fairylights.blue": "Синий",
+    "color.fairylights.purple": "Фиолетовый",
+    "color.fairylights.cyan": "Бирюзовый",
+    "color.fairylights.light_gray": "Светло-серый",
+    "color.fairylights.gray": "Серый",
+    "color.fairylights.pink": "Розовый",
+    "color.fairylights.lime": "Лаймовый",
+    "color.fairylights.yellow": "Желтый",
+    "color.fairylights.light_blue": "Голубой",
+    "color.fairylights.magenta": "Пурпурный",
+    "color.fairylights.orange": "Оранжевый",
+    "color.fairylights.white": "Белый",
+    
+    "subtitles.block.fairylights.jingleBell": "Звон колокольчика",
+    "subtitles.block.fairylights.cord.connect": "Шнур подключается",
+    "subtitles.block.fairylights.cord.disconnect": "Шнур отключается",
+    "subtitles.block.fairylights.cord.stretch": "Шнур натягивается",
+    "subtitles.block.fairylights.cord.snap": "Шнур рвется",
+    "subtitles.block.fairylights.feature.lightTurnOn": "Щелчок включения света",
+    "subtitles.block.fairylights.feature.lightTurnOff": "Щелчок выключения света",
+    "subtitles.block.fairylights.feature.colorChange": "Изменение цвета",
+    
+    "commands.jingler.open.success": "Успешно открыто: %1$s",
+    "commands.jingler.open.failure.no_hanging_lights": "Подвесные гирлянды не выбраны",
+    "commands.jingler.open.failure.device_unavailable": "Устройство %1$s недоступно, вероятно, используется другой программой",
+    "commands.jingler.open.failure.not_found": "Устройство с именем %1$s не найдено",
+    "commands.jingler.close.success.single": "Успешно закрыто соединение с %1$s",
+    "commands.jingler.close.success.multiple": "Успешно закрыто %1$s соединений",
+    "commands.jingler.close.failure": "Нет устройств для закрытия",
+    "commands.jingler.device.vendor": "Производитель: %1$s",
+    "commands.jingler.device.description": "Описание: %1$s",
+    
+    "tutorial.fairylights.craft_hanging_lights.title": "Создание подвесных гирлянд",
+    "tutorial.fairylights.craft_hanging_lights.description": "Книга рецептов может помочь"
+}
